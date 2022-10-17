@@ -30,3 +30,5 @@ updateClock();
 }
 
 updateClock();
+
+console.log('hello world')
